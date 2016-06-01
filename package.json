@@ -1,0 +1,24 @@
+{
+  "name": "angular-scope-validators",
+  "version": "0.1.0",
+  "description": "Angular Scope validators (inspired by React.PropTypes)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cawabunga/angular-scope-validators.git"
+  },
+  "keywords": [
+    "angular",
+    "scope",
+    "validators"
+  ],
+  "author": "Emil Ibatullin",
+  "bugs": {
+    "url": "https://github.com/cawabunga/angular-scope-validators/issues"
+  },
+  "homepage": "https://github.com/cawabunga/angular-scope-validators#readme",
+  "devDependencies": {}
+}
