@@ -1,5 +1,3 @@
-'use strict';
-
 // copied from https://github.com/facebook/react/blob/c0ecde687ae3e599dced83a111e57ed49897b0b9/src/isomorphic/classic/types/ReactPropTypes.js
 
 const ScopeValidators = {
