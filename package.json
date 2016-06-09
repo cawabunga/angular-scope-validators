@@ -2,7 +2,7 @@
   "name": "angular-scope-validators",
   "version": "0.1.0",
   "description": "Angular Scope validators (inspired by React.PropTypes)",
-  "main": "index.js",
+  "main": "dist/angular-scope-validators.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
